@@ -1,0 +1,1 @@
+# Delete-Rows-in-SQL-Using-the-DELETE-Clause
